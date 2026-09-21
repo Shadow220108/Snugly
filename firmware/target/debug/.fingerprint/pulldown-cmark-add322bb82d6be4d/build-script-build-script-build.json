@@ -1,0 +1,20 @@
+{
+  "rustc": 1625334936438085654,
+  "features": "[]",
+  "declared_features": "[\"default\", \"gen-tests\", \"getopts\", \"html\", \"pulldown-cmark-escape\", \"serde\", \"simd\"]",
+  "target": 5408242616063297496,
+  "profile": 11274545624197158258,
+  "path": 16323316277636774143,
+  "deps": [],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "debug/.fingerprint/pulldown-cmark-add322bb82d6be4d/dep-build-script-build-script-build",
+        "checksum": false
+      }
+    }
+  ],
+  "rustflags": [],
+  "config": 8247474407144887393,
+  "compile_kind": 0
+}

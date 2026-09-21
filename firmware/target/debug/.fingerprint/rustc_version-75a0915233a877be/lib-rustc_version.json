@@ -1,0 +1,20 @@
+{
+  "rustc": 9777074978655410247,
+  "features": "[]",
+  "declared_features": "[]",
+  "target": 13514948210509086945,
+  "profile": 15657897354478470176,
+  "path": 1194495102344452446,
+  "deps": [[6648118229278751425, "semver", false, 15522588852795017678]],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "debug/.fingerprint/rustc_version-75a0915233a877be/dep-lib-rustc_version",
+        "checksum": false
+      }
+    }
+  ],
+  "rustflags": [],
+  "config": 9396254390672932401,
+  "compile_kind": 0
+}

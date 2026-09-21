@@ -1,0 +1,29 @@
+{
+  "rustc": 1625334936438085654,
+  "features": "[]",
+  "declared_features": "[\"cm7\", \"cm7-r0p1\", \"critical-section\", \"critical-section-single-core\", \"inline-asm\", \"linker-plugin-lto\", \"secure-mode\", \"serde\", \"serde_json\", \"std\"]",
+  "target": 17713601142729468132,
+  "profile": 10185441994092410962,
+  "path": 9083523856738371945,
+  "deps": [
+    [940283163401247653, "critical_section", false, 2583640972086918585],
+    [1329641550940808045, "cortex_m_macros", false, 14978163414536910890],
+    [5301752379562145233, "eh1", false, 16043352068671650390],
+    [6064192862629450123, "eh0", false, 1399369189691562777],
+    [6268991993315031017, "volatile_register", false, 11472737733926573942],
+    [8918478019321342688, "build_script_build", false, 9556071111445358192],
+    [9008560236759955788, "bitfield", false, 11458057766091165034],
+    [15384096090752261737, "bare_metal", false, 13787023485372231786]
+  ],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "thumbv6m-none-eabi/debug/.fingerprint/cortex-m-15a4111a505ae61b/dep-lib-cortex_m",
+        "checksum": false
+      }
+    }
+  ],
+  "rustflags": ["-C", "link-arg=-Tlink.x"],
+  "config": 8247474407144887393,
+  "compile_kind": 8154225861559432784
+}

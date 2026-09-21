@@ -1,0 +1,7 @@
+/home/cloudglides/Snugly/firmware/target/thumbv6m-none-eabi/debug/deps/frunk-3a8b5747a13804e4.d: /home/cloudglides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/frunk-0.4.4/src/lib.rs /home/cloudglides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/frunk-0.4.4/src/monoid.rs /home/cloudglides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/frunk-0.4.4/src/semigroup.rs
+
+/home/cloudglides/Snugly/firmware/target/thumbv6m-none-eabi/debug/deps/libfrunk-3a8b5747a13804e4.rmeta: /home/cloudglides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/frunk-0.4.4/src/lib.rs /home/cloudglides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/frunk-0.4.4/src/monoid.rs /home/cloudglides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/frunk-0.4.4/src/semigroup.rs
+
+/home/cloudglides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/frunk-0.4.4/src/lib.rs:
+/home/cloudglides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/frunk-0.4.4/src/monoid.rs:
+/home/cloudglides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/frunk-0.4.4/src/semigroup.rs:

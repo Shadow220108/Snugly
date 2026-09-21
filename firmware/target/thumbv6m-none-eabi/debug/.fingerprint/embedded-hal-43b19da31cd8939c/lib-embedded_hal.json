@@ -1,0 +1,20 @@
+{
+  "rustc": 1625334936438085654,
+  "features": "[]",
+  "declared_features": "[\"defmt-03\"]",
+  "target": 10543535235496234955,
+  "profile": 7940833603141951942,
+  "path": 3176115636490664968,
+  "deps": [],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "thumbv6m-none-eabi/debug/.fingerprint/embedded-hal-43b19da31cd8939c/dep-lib-embedded_hal",
+        "checksum": false
+      }
+    }
+  ],
+  "rustflags": ["-C", "link-arg=-Tlink.x"],
+  "config": 8247474407144887393,
+  "compile_kind": 8154225861559432784
+}

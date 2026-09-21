@@ -1,0 +1,24 @@
+{
+  "rustc": 1625334936438085654,
+  "features": "[]",
+  "declared_features": "[]",
+  "target": 7957146060866666735,
+  "profile": 7940833603141951942,
+  "path": 2767629313532916401,
+  "deps": [
+    [1093148254884404613, "num_enum", false, 14628329613295231025],
+    [13762942353775062607, "arrayvec", false, 18085873401268083587],
+    [17605717126308396068, "paste", false, 15129366467500739005]
+  ],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "thumbv6m-none-eabi/debug/.fingerprint/pio-5d8ccf08d498a206/dep-lib-pio",
+        "checksum": false
+      }
+    }
+  ],
+  "rustflags": ["-C", "link-arg=-Tlink.x"],
+  "config": 8247474407144887393,
+  "compile_kind": 8154225861559432784
+}

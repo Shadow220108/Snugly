@@ -1,0 +1,23 @@
+{
+  "rustc": 9777074978655410247,
+  "features": "[]",
+  "declared_features": "[\"alloc\", \"default\", \"frunk_proc_macros\", \"proc-macros\", \"serde\", \"std\", \"validated\"]",
+  "target": 5541849887647427493,
+  "profile": 2241668132362809309,
+  "path": 8884686354299846483,
+  "deps": [
+    [2068507966639751390, "frunk_core", false, 14611861765441814188],
+    [8115457406165785570, "frunk_derives", false, 5798654362493689618]
+  ],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "debug/.fingerprint/frunk-a59a48f61b18d51e/dep-lib-frunk",
+        "checksum": false
+      }
+    }
+  ],
+  "rustflags": [],
+  "config": 8247474407144887393,
+  "compile_kind": 0
+}

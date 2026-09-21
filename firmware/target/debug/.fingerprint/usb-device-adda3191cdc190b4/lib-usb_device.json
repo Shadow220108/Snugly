@@ -1,0 +1,23 @@
+{
+  "rustc": 9777074978655410247,
+  "features": "[]",
+  "declared_features": "[\"control-buffer-256\", \"defmt\", \"log\", \"test-class-high-speed\"]",
+  "target": 16219692097671258425,
+  "profile": 2241668132362809309,
+  "path": 1715055776067513260,
+  "deps": [
+    [12740221742494834345, "heapless", false, 6128097207853835221],
+    [13052588844339377351, "portable_atomic", false, 4278583242487413481]
+  ],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "debug/.fingerprint/usb-device-adda3191cdc190b4/dep-lib-usb_device",
+        "checksum": false
+      }
+    }
+  ],
+  "rustflags": [],
+  "config": 8247474407144887393,
+  "compile_kind": 0
+}

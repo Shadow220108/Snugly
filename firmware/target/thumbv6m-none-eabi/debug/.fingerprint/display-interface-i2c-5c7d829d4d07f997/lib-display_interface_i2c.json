@@ -1,0 +1,24 @@
+{
+  "rustc": 1625334936438085654,
+  "features": "[]",
+  "declared_features": "[]",
+  "target": 11443774567817713123,
+  "profile": 10185441994092410962,
+  "path": 10288410266146224698,
+  "deps": [
+    [5301752379562145233, "embedded_hal", false, 16043352068671650390],
+    [8788217364866716893, "display_interface", false, 1525371694696307304],
+    [18191224429215229841, "embedded_hal_async", false, 13729796322078157954]
+  ],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "thumbv6m-none-eabi/debug/.fingerprint/display-interface-i2c-5c7d829d4d07f997/dep-lib-display_interface_i2c",
+        "checksum": false
+      }
+    }
+  ],
+  "rustflags": ["-C", "link-arg=-Tlink.x"],
+  "config": 8247474407144887393,
+  "compile_kind": 8154225861559432784
+}

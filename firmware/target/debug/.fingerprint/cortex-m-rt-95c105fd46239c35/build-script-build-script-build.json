@@ -1,0 +1,20 @@
+{
+  "rustc": 1625334936438085654,
+  "features": "[]",
+  "declared_features": "[\"device\", \"paint-stack\", \"set-msplim\", \"set-sp\", \"set-vtor\", \"skip-data-copy\", \"zero-init-ram\"]",
+  "target": 2835126046236718539,
+  "profile": 15657897354478470176,
+  "path": 8810454776243845599,
+  "deps": [],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "debug/.fingerprint/cortex-m-rt-95c105fd46239c35/dep-build-script-build-script-build",
+        "checksum": false
+      }
+    }
+  ],
+  "rustflags": [],
+  "config": 8247474407144887393,
+  "compile_kind": 0
+}

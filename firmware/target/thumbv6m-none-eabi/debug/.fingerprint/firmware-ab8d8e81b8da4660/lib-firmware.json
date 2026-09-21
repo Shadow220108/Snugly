@@ -1,0 +1,28 @@
+{
+  "rustc": 1625334936438085654,
+  "features": "[]",
+  "declared_features": "[]",
+  "target": 10685724700940688592,
+  "profile": 8557956707643402571,
+  "path": 10763286916239946207,
+  "deps": [
+    [5301752379562145233, "embedded_hal", false, 16043352068671650390],
+    [5650061146994716371, "ssd1306", false, 11072664299138136530],
+    [8918478019321342688, "cortex_m", false, 903843687032919311],
+    [10159922497541581569, "panic_halt", false, 5608257672983531493],
+    [11239632075142717721, "rp2040_hal", false, 12200670316990115364],
+    [11635914187459745107, "cortex_m_rt", false, 14188123603453687829],
+    [13614582881486119604, "embedded_graphics", false, 11294050611562313051]
+  ],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "thumbv6m-none-eabi/debug/.fingerprint/firmware-ab8d8e81b8da4660/dep-lib-firmware",
+        "checksum": false
+      }
+    }
+  ],
+  "rustflags": ["-C", "link-arg=-Tlink.x"],
+  "config": 8247474407144887393,
+  "compile_kind": 8154225861559432784
+}

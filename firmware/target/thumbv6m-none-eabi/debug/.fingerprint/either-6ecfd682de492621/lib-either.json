@@ -1,0 +1,20 @@
+{
+  "rustc": 1625334936438085654,
+  "features": "[]",
+  "declared_features": "[\"default\", \"serde\", \"std\", \"use_std\"]",
+  "target": 17124342308084364240,
+  "profile": 10185441994092410962,
+  "path": 15519055678855898263,
+  "deps": [],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "thumbv6m-none-eabi/debug/.fingerprint/either-6ecfd682de492621/dep-lib-either",
+        "checksum": false
+      }
+    }
+  ],
+  "rustflags": ["-C", "link-arg=-Tlink.x"],
+  "config": 8247474407144887393,
+  "compile_kind": 8154225861559432784
+}

@@ -1,0 +1,24 @@
+{
+  "rustc": 9777074978655410247,
+  "features": "[]",
+  "declared_features": "[\"defmt-03\", \"mpmc_large\", \"portable-atomic\", \"portable-atomic-critical-section\", \"portable-atomic-unsafe-assume-single-core\", \"serde\", \"ufmt\"]",
+  "target": 9552490754291251400,
+  "profile": 2241668132362809309,
+  "path": 5413451520971531149,
+  "deps": [
+    [7239258617757239022, "hash32", false, 4900968991884447970],
+    [12669569555400633618, "stable_deref_trait", false, 14488168181425314836],
+    [12740221742494834345, "build_script_build", false, 10136857214366181338]
+  ],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "debug/.fingerprint/heapless-c9f3aff6e6d75575/dep-lib-heapless",
+        "checksum": false
+      }
+    }
+  ],
+  "rustflags": [],
+  "config": 8247474407144887393,
+  "compile_kind": 0
+}

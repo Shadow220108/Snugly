@@ -1,0 +1,20 @@
+{
+  "rustc": 1625334936438085654,
+  "features": "[\"default\"]",
+  "declared_features": "[\"default\", \"defmt-03\"]",
+  "target": 10475964363758376359,
+  "profile": 10185441994092410962,
+  "path": 4484071391175121325,
+  "deps": [],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "thumbv6m-none-eabi/debug/.fingerprint/display-interface-c81cd622473f625f/dep-lib-display_interface",
+        "checksum": false
+      }
+    }
+  ],
+  "rustflags": ["-C", "link-arg=-Tlink.x"],
+  "config": 8247474407144887393,
+  "compile_kind": 8154225861559432784
+}

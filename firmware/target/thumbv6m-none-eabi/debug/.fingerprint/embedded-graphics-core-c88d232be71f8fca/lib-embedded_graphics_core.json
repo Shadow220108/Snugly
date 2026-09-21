@@ -1,0 +1,23 @@
+{
+  "rustc": 1625334936438085654,
+  "features": "[\"default\"]",
+  "declared_features": "[\"default\", \"defmt\", \"nalgebra\", \"nalgebra_support\"]",
+  "target": 402789279227991948,
+  "profile": 10185441994092410962,
+  "path": 5887081095610487699,
+  "deps": [
+    [3712811570531045576, "byteorder", false, 10534597030045532503],
+    [11622276837572136955, "az", false, 16192015615490812086]
+  ],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "thumbv6m-none-eabi/debug/.fingerprint/embedded-graphics-core-c88d232be71f8fca/dep-lib-embedded_graphics_core",
+        "checksum": false
+      }
+    }
+  ],
+  "rustflags": ["-C", "link-arg=-Tlink.x"],
+  "config": 8247474407144887393,
+  "compile_kind": 8154225861559432784
+}

@@ -1,0 +1,6 @@
+$ mkdir -p "/home/cloudglides/Snugly/firmware/target/thumbv6m-none-eabi/debug/build/az-f944d8eb4fdc752c/out/try_track_caller"
+$ cd "/home/cloudglides/Snugly/firmware/target/thumbv6m-none-eabi/debug/build/az-f944d8eb4fdc752c/out/try_track_caller"
+$ printf '%s' "// try_tra"... > "/home/cloudglides/Snugly/firmware/target/thumbv6m-none-eabi/debug/build/az-f944d8eb4fdc752c/out/try_track_caller/try_track_caller.rs"
+$ cd "/home/cloudglides/Snugly/firmware/target/thumbv6m-none-eabi/debug/build/az-f944d8eb4fdc752c/out/try_track_caller" && "/home/cloudglides/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/bin/rustc" "try_track_caller.rs" "--emit=dep-info,metadata" >& /dev/null
+cargo:rustc-cfg=track_caller
+$ rm -r "/home/cloudglides/Snugly/firmware/target/thumbv6m-none-eabi/debug/build/az-f944d8eb4fdc752c/out/try_track_caller"

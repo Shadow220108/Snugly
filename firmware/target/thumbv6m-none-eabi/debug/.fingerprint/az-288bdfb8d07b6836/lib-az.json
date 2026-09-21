@@ -1,0 +1,22 @@
+{
+  "rustc": 1625334936438085654,
+  "features": "[]",
+  "declared_features": "[\"fail-on-warnings\"]",
+  "target": 16198319107576153087,
+  "profile": 10185441994092410962,
+  "path": 198630976635379443,
+  "deps": [
+    [11622276837572136955, "build_script_build", false, 8319912648714901133]
+  ],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "thumbv6m-none-eabi/debug/.fingerprint/az-288bdfb8d07b6836/dep-lib-az",
+        "checksum": false
+      }
+    }
+  ],
+  "rustflags": ["-C", "link-arg=-Tlink.x"],
+  "config": 8247474407144887393,
+  "compile_kind": 8154225861559432784
+}

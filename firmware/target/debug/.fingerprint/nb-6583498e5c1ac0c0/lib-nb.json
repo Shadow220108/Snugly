@@ -1,0 +1,20 @@
+{
+  "rustc": 9777074978655410247,
+  "features": "[\"unstable\"]",
+  "declared_features": "[\"unstable\"]",
+  "target": 9278878797909942774,
+  "profile": 2241668132362809309,
+  "path": 7594238584096518600,
+  "deps": [[9396512774562930307, "nb", false, 10180396139226023790]],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "debug/.fingerprint/nb-6583498e5c1ac0c0/dep-lib-nb",
+        "checksum": false
+      }
+    }
+  ],
+  "rustflags": [],
+  "config": 8247474407144887393,
+  "compile_kind": 0
+}

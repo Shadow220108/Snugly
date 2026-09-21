@@ -1,0 +1,20 @@
+{
+  "rustc": 1625334936438085654,
+  "features": "[]",
+  "declared_features": "[\"alloc\", \"default\", \"std\"]",
+  "target": 5616890217583455155,
+  "profile": 7940833603141951942,
+  "path": 6691372713630785601,
+  "deps": [],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "thumbv6m-none-eabi/debug/.fingerprint/stable_deref_trait-9d3d6b89a1031d20/dep-lib-stable_deref_trait",
+        "checksum": false
+      }
+    }
+  ],
+  "rustflags": ["-C", "link-arg=-Tlink.x"],
+  "config": 8247474407144887393,
+  "compile_kind": 8154225861559432784
+}

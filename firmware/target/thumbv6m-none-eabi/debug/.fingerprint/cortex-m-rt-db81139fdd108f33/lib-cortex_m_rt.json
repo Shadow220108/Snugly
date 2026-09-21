@@ -1,0 +1,23 @@
+{
+  "rustc": 1625334936438085654,
+  "features": "[]",
+  "declared_features": "[\"device\", \"paint-stack\", \"set-msplim\", \"set-sp\", \"set-vtor\", \"skip-data-copy\", \"zero-init-ram\"]",
+  "target": 16599801379383858953,
+  "profile": 7940833603141951942,
+  "path": 15995394122711559036,
+  "deps": [
+    [11635914187459745107, "build_script_build", false, 12450545571878806166],
+    [16503402980733201403, "cortex_m_rt_macros", false, 10872825748835248255]
+  ],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "thumbv6m-none-eabi/debug/.fingerprint/cortex-m-rt-db81139fdd108f33/dep-lib-cortex_m_rt",
+        "checksum": false
+      }
+    }
+  ],
+  "rustflags": ["-C", "link-arg=-Tlink.x"],
+  "config": 8247474407144887393,
+  "compile_kind": 8154225861559432784
+}

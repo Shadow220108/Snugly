@@ -1,0 +1,29 @@
+{
+  "rustc": 9777074978655410247,
+  "features": "[]",
+  "declared_features": "[]",
+  "target": 10663652675270772517,
+  "profile": 2225463790103693989,
+  "path": 9844684071323323300,
+  "deps": [
+    [8949245912927223590, "quote", false, 14538994537399576004],
+    [10190449710562616856, "syn", false, 2286656388292680657],
+    [
+      16583395502307776151,
+      "frunk_proc_macro_helpers",
+      false,
+      15183377063945735910
+    ]
+  ],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "debug/.fingerprint/frunk_derives-8e85cbd9fe846c95/dep-lib-frunk_derives",
+        "checksum": false
+      }
+    }
+  ],
+  "rustflags": [],
+  "config": 8247474407144887393,
+  "compile_kind": 0
+}

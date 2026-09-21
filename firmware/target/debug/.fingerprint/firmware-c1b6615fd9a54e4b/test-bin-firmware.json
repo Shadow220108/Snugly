@@ -1,0 +1,20 @@
+{
+  "rustc": 9777074978655410247,
+  "features": "[]",
+  "declared_features": "[]",
+  "target": 16254904661201657373,
+  "profile": 3316208278650011218,
+  "path": 4942398508502643691,
+  "deps": [],
+  "local": [
+    {
+      "CheckDepInfo": {
+        "dep_info": "debug/.fingerprint/firmware-c1b6615fd9a54e4b/dep-test-bin-firmware",
+        "checksum": false
+      }
+    }
+  ],
+  "rustflags": [],
+  "config": 8247474407144887393,
+  "compile_kind": 0
+}
